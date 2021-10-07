@@ -1,0 +1,9 @@
+@import './normalize.css';
+
+:root{
+    --h-color:red
+}
+
+h3{
+   color: var(--h-color);
+}
